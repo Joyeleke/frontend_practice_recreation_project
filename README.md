@@ -1,1 +1,1 @@
-#This is a frontend recreation project with HTML, CSS, and JS
+#This is a frontend recreation project with HTML and CSS.

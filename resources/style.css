@@ -88,6 +88,10 @@ li {
   list-style: none;
 }
 
+ul a span {
+  font-size: small;
+}
+
 /* Banner Styling */
 
 .banner {
@@ -197,10 +201,3 @@ footer a{
 footer p{
   color: white;
 }
-
-
-/* To-do */
-/* -media query Nav Heading */
-/* Fixed my hr line properly */
-/* Work on improving banner */
-/* Go back and fix headings */
